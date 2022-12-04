@@ -1,0 +1,26 @@
+{
+	"name": "House0003",
+	"description": "Beautiful Icelandic Houses for sale",
+	"url": "islandskikukji.tk",
+	"image": "https://bafybeiemjjsacd2o7ubc3tlmduvuzwa5f4wlubfrh46bppaug6qydyifaq.ipfs.w3s.link/DALL%C2%B7E%202022-12-04%2012.55.14%20-%20House%20in%20Iceland%20with%20aurora.png",
+	"issuer": "GDR23IEXVGTA7Z2PL2QZ2BV6UKGFUFJG4QPEEWAL2LVPFZKPRJLHDU6N",
+	"code": "House0003",
+	"attributes": [
+		{
+			"trait_type": "Bedrooms",
+			"value": 2
+		},
+		{
+			"trait_ty3e": "Baths",
+			"value": 1
+		},
+		{
+			"trait_type": "Square Footage",
+			"value": 750
+		},
+		{
+			"trait_type": "Square Footate Log",
+			"value": 1320
+		}
+	]
+}

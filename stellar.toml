@@ -1,0 +1,38 @@
+# Stellar го користи овој фајл, да прочита повеќе информации како изгледа еден НФТ или токен. Овој фајл се чита од /.well-known/stellar.toml
+
+# На Која мрежа соодвестува ова
+NETWORK_PASSPHRASE="Test SDF Network ; September 2015"
+ 
+# Со кои сметки ги контролираме нашите НФТија
+ACCOUNTS = [
+    "GCBPM2U4WEIT6PD2YNLUZWMSI4RLKF2ZNVVOLDXQGK23MY4TKG42XXXW",
+    "GCFB6HRIIOZJ24IISGTOYCD7V77TBXAZLWFXCPCQZ3Q2JEHQNMKJ5RMO"
+] 
+    
+VERSION="2.0.0"
+
+# Информации за издавачот на НФТ
+[DOCUMENTATION]
+ORG_NAME="FinTech Akademija"
+ORG_URL="https://untitled-xus7ujse4kry.runkit.sh"
+ORG_LOGO=""
+ORG_DESCRIPTION="Placeholder stuff"
+ORG_PHYSICAL_ADDRESS="Skopje"
+
+# Лице за контакт
+[[PRINCIPALS]]
+name="Nesho"
+email="random@random.com"
+keybase="onaka"
+twitter="popolneto"
+github="zashdane"
+
+# Секој НФТ на Stellar е Токен. За да прикажеме сопственост треба да го посочиме името и сметката што го имаме издадено НФТито. Тука можеме и да посочиме слика до нашиот фајл.
+[[CURRENCIES]]
+code="FINTECH"
+issuer="GCBPM2U4WEIT6PD2YNLUZWMSI4RLKF2ZNVVOLDXQGK23MY4TKG42XXXW"
+display_decimals=2
+desc="Ne znam.."
+display_decimals=2
+image="https://media.discordapp.net/attachments/1042510679753633802/1048911691250946159/DALLE_2022-12-04_11.40.23_-_A_bear_doing_financial_investment_research.png?width=938&height=938"
+

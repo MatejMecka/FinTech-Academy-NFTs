@@ -15,4 +15,7 @@ Use a Bridge like https://opensea.io/collection/litemint-pfp
 ### Example:
 
 https://stellar.expert/explorer/testnet/account/GCSO5OTB667ZFL5WXJRAFV5QJWIVEAR2AX5EFY453U5LYIDZNV4AGA6J
+
+### Use Case:
+
 https://docs.google.com/document/d/1Na3aQvBAx9a4Pasb1VlDCM64_zZWSOsJghxnTEKNAPc/edit

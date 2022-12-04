@@ -22,6 +22,8 @@ Use a Bridge like https://opensea.io/collection/litemint-pfp
 
 https://stellar.expert/explorer/testnet/account/GCSO5OTB667ZFL5WXJRAFV5QJWIVEAR2AX5EFY453U5LYIDZNV4AGA6J
 
+![Freighter](https://media.discordapp.net/attachments/765305491953418240/1048944191041966140/Screenshot_2022-12-04_at_13.49.39.png?width=606&height=937)
+
 ### Use Case:
 
 https://docs.google.com/document/d/1Na3aQvBAx9a4Pasb1VlDCM64_zZWSOsJghxnTEKNAPc/edit

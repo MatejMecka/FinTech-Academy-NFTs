@@ -8,6 +8,12 @@ Steps for Deploying
 4. Modify Metadata.json
 5. Submit the Transactions
 
+### Why Stellar instead of Ethereum?
+
+1. Low Transaction Cost
+2. Faster execution of transactions
+3. Minting on Stellar can cost around 0.13 (Current pricing, at 0.08 US for 1 XLM)
+
 ### How to use on Ethereum?
 
 Use a Bridge like https://opensea.io/collection/litemint-pfp
